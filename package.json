@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "create": "bash ./clasp-script.sh create",
+    "push": "bash ./clasp-script.sh push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.59",
+    "@types/google-apps-script-oauth2": "^38.0.0",
+    "@types/node": "^18.15.11",
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
+    "@typescript-eslint/parser": "^5.58.0",
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "^8.8.0",
+    "gts": "^3.1.1",
+    "prettier": "^2.8.7",
+    "typescript": "^5.0.4"
+  }
+}
